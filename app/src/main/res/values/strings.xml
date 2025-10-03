@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">wordle</string>
+
+        <!-- Add these four lines to fix the errors -->
+        <string name="enter_4_letter_word">Enter 4-letter word</string>
+        <string name="submit">Submit</string>
+        <string name="the_word_was">The word was:</string>
+        <string name="reset">Reset</string>
+
+        <!-- <string name="app_name">Wordle</string> -->
 </resources>
